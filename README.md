@@ -20,3 +20,4 @@ First, use this command to download the package.<br>
 $ pip install lostlifevalue<br>
 And then, all that remains is to run it.<br>
 $ lostlifevalue<br>
+![スクリーンショット 2022-01-12 1 18 05](https://user-images.githubusercontent.com/60126632/148980554-10890f88-65ce-445b-84c8-88bf588ef59f.png)
