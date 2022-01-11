@@ -7,10 +7,11 @@ deaths: https://github.com/owid/covid-19-data/blob/master/public/data/jhu/total_
 This package is designed to calculate the value of lives lost due to Covid-19 and to determine how much damage the country has suffered in terms of GNI ratio.<br>
 To calculate the value of a life, we use an index called VSL. This index stands for value of statistical life, and represents the value of a human life. Using this VSL data and the number of deaths due to Covid-19, we can calculate the value of lives lost due to Covid-19.<br>
 The following indicators are used in this package.<br>
+deaths<br>
 VSL ($/million)<br>
 GNI ($/thousand)<br>
 Population(/100000)<br>
-eloss_total(VSL * Population)<br>
+eloss_total(VSL * deaths)<br>
 GNI_total(GNI * Population)<br>
 eDamage_per_GNI(eloss_total/GNI_total)<br>
 # 3. How to rum?
