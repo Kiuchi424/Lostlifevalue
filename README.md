@@ -18,6 +18,9 @@ eDamage_per_GNI(eloss_total/GNI_total)<br>
 You can use this package easily.<br>
 First, use this command to download the package.<br>
 $ pip install lostlifevalue<br>
-And then, all that remains is to run it.<br>
+Next, run this command.<br>
 $ lostlifevalue<br>
+When you run the above command, you will be asked a question like the one in the image.<br>
+![スクリーンショット 2022-01-26 19 21 14](https://user-images.githubusercontent.com/60126632/151146228-6237ed9e-f5a2-4535-b384-6f90018a2efb.png)<br>
+This will ask you which value you want to sort the table by, so follow the instructions and enter your choice of deaths, VSL, or eDamage_per_GNI.<br>
 ![スクリーンショット 2022-01-12 1 18 05](https://user-images.githubusercontent.com/60126632/148980554-10890f88-65ce-445b-84c8-88bf588ef59f.png)
