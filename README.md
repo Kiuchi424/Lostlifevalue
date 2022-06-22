@@ -1,4 +1,5 @@
 # Lostlifevalue
+[![Open in code Ocean](https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg)](https://codeocean.com/capsule/6549410/tree)
 # 1 .Dataset
 Population: https://www.worldometers.info/world-population/population-by-country/ <br>
 VSL,GNI: https://law.vanderbilt.edu/phd/faculty/w-kip-viscusi/355_Income_Elasticities_and_Global_VSL.pdf <br>
